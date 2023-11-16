@@ -1,0 +1,6 @@
+  531  git status
+  535  git checkout -b feature/starter-code
+  537  git add -A
+  539  git commit -m "add starter code"
+  540  git pull origin main
+  541  git push origin feature/starter-code
